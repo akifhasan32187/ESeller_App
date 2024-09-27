@@ -7,4 +7,4 @@ purchases hassle-free.
 
 **Technology:** Java, Android Studio
 
-![GitHub-Mark](https://drive.google.com/uc?export=view&id=1agsGY3hGMVF30itNw2Z5TVWzUOlBDxSm)
+<img src="https://drive.google.com/uc?export=view&id=1agsGY3hGMVF30itNw2Z5TVWzUOlBDxSm" alt="GitHub-Mark" width="300">
